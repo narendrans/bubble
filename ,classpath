@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="H:/Workspace/bubble/lib/appframework-1.0.3.jar"/>
+	<classpathentry kind="lib" path="H:/Workspace/bubble/lib/fontbox-0.8.0-incubating.jar"/>
+	<classpathentry kind="lib" path="H:/Workspace/bubble/lib/google-api-translate-java-0.91.jar"/>
+	<classpathentry kind="lib" path="H:/Workspace/bubble/lib/htmlConverter.jar"/>
+	<classpathentry kind="lib" path="H:/Workspace/bubble/lib/htmlparser.jar"/>
+	<classpathentry kind="lib" path="H:/Workspace/bubble/lib/iText-2.1.7.jar"/>
+	<classpathentry kind="lib" path="H:/Workspace/bubble/lib/Jama-1.0.2.jar"/>
+	<classpathentry kind="lib" path="H:/Workspace/bubble/lib/lingpipe-3.5.0.jar"/>
+	<classpathentry kind="lib" path="H:/Workspace/bubble/lib/PDFBox-0.7.3.jar"/>
+	<classpathentry kind="lib" path="H:/Workspace/bubble/lib/swing-worker-1.1.jar"/>
+	<classpathentry kind="con" path="com.soyatec.uml.CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
